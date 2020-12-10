@@ -1,0 +1,25 @@
+.array-container {
+    position: center;
+    margin: 50px 0;
+}
+
+.array-bar {
+    width: 10px;
+    background-color: red;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.divider {
+    width:10px;
+    height:auto;
+    display:inline-block;
+}
+
+.sliders {
+    margin: 10px 0;
+}
+
+.typo {
+    margin: 50px;
+}
