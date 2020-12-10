@@ -1,4 +1,4 @@
-![video](https://imgur.com/DXSCIBY)
+![video](https://imgur.com/DXSCIBY.gif)
 # Sorting Algorithm Visualizer
 
 Sorting algorithm visualizations based on Robert Sedgewick's implementations (https://algs4.cs.princeton.edu/20sorting/)
