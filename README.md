@@ -3,6 +3,9 @@
 
 Sorting algorithm visualizations based on Robert Sedgewick's implementations (https://algs4.cs.princeton.edu/20sorting/)
 
+Install with `npm install` or `yarn install`
+
+Run with `npm start` or `yarn start`
 
 # Getting Started with Create React App
 
